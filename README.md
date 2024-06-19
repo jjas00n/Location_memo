@@ -32,21 +32,20 @@
   <img src="https://github.com/jjas00n/Location_memo/assets/147312504/acce5dc1-fcf2-42e7-aac0-986866d8c48f" width="40%" height="40%">
 
 - 메인화면에서 좌표를 얻은 모습
--
-  ![Screenshot_20240619_202707](https://github.com/jjas00n/Location_memo/assets/147312504/712bf28f-7df1-4102-95b8-d6afc0dd6b18)
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/712bf28f-7df1-4102-95b8-d6afc0dd6b18" width="40%" height="40%">
 
 - 지도화면
--
-  ![Screenshot_20240619_202717](https://github.com/jjas00n/Location_memo/assets/147312504/4b2423e0-9505-42e5-b9ec-f4ed4db8cc47)
-
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/4b2423e0-9505-42e5-b9ec-f4ed4db8cc47" width="40%" height="40%">
 
 - 지도에서 원하는 위치 지정
--
-  ![Screenshot_20240619_202746](https://github.com/jjas00n/Location_memo/assets/147312504/28a2cf6d-0e22-42d5-a7d0-69e1a3bbc81b)
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/28a2cf6d-0e22-42d5-a7d0-69e1a3bbc81b" width="40%" height="40%">
 
 - 메모 작성
--
-  ![Screenshot_20240619_202818](https://github.com/jjas00n/Location_memo/assets/147312504/f9b8b8d2-7117-4888-9800-4f77cd8c9385)
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/f9b8b8d2-7117-4888-9800-4f77cd8c9385" width="40%" height="40%">
 
 - 다른 사람이 작성한 메모 확인
 - 
