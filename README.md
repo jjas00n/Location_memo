@@ -67,4 +67,5 @@
 - 장소에 대한 나의 의견을 써보고 다른 사람의 메모도 구경하며 의견의 차이를 확인할 수 있다.
 
 ### 2.5 시연영상
-- [Youtube 동영상]([URL](https://youtu.be/IVGUJR84vEw))
+- [Youtube 동영상]
+- https://youtu.be/IVGUJR84vEw
