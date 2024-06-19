@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- 배너 또는 헤더 부분 -->
+    <TextView
+        android:id="@+id/textViewHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="장소메모 앱"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextPlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewHeader"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:hint="장소를 입력하세요. ex)에펠탑" />
+
+    <ImageButton
+        android:id="@+id/buttonFindCoordinates"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/editTextPlace"
+        android:layout_centerHorizontal="false"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:src="@drawable/search"
+        android:text="위도, 경도값 찾기" />
+
+    <TextView
+        android:id="@+id/textViewCoordinates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonFindCoordinates"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="10dp"
+        android:text="여기에 좌표가 표시됩니다."
+        android:textStyle="bold"
+        android:paddingTop="16dp"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/editTextLatitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewCoordinates"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:enabled="false"
+        android:hint="위도값" />
+
+    <EditText
+        android:id="@+id/editTextLongitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextLatitude"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:enabled="false"
+        android:hint="경도값" />
+
+    <ImageButton
+        android:id="@+id/buttonShowMap"
+        android:layout_width="58dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/editTextLongitude"
+        android:layout_centerHorizontal="false"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/location"
+        android:text="해당 위치 보기" />
+
+    <ImageButton
+        android:id="@+id/buttonViewNotes"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/buttonShowMap"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/memo"
+        android:text="메모 보기" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="1.장소를 검색하고 위치를 얻으세요."
+            android:layout_below="@+id/buttonViewNotes"
+            android:layout_marginTop="30dp"
+            android:id="@+id/hint1"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="2.위치 아이콘으로 정확한 위치를 찾으세요."
+            android:layout_below="@+id/hint1"
+            android:layout_marginTop="10dp"
+            android:id="@+id/hint2"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="3.메모를 작성하세요."
+            android:layout_below="@+id/hint2"
+            android:layout_marginTop="10dp"
+            android:id="@+id/hint3"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="4.작성한 메모들을 확인하세요."
+            android:layout_below="@+id/hint3"
+            android:layout_marginTop="10dp"
+            android:id="@+id/hint4"
+            android:layout_centerHorizontal="true"/>
+
+
+
+</RelativeLayout>

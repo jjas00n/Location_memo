@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NoteDetailActivity">
+
+
+
+    <ImageView
+        android:id="@+id/imageViewNoteDetail"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Note Image" />
+
+    <TextView
+        android:id="@+id/textViewPlaceDetail"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place" />
+
+    <TextView
+        android:id="@+id/textViewCoordinatesDetail"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_height="wrap_content"
+        android:text="Coordinates" />
+
+    <TextView
+        android:id="@+id/textViewNoteDetail"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_height="wrap_content"
+        android:text="Note Detail" />
+
+    <RatingBar
+        android:id="@+id/ratingBarDetail"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="0.5"
+        android:isIndicator="true" />
+
+    <ImageButton
+        android:id="@+id/buttonBack"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="뒤로 가기"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/back"
+        android:layout_marginLeft="10dp" />
+
+
+</LinearLayout>
