@@ -31,28 +31,36 @@
 ### 2.3 결과물
 
 - 메인 화면
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/acce5dc1-fcf2-42e7-aac0-986866d8c48f" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/acce5dc1-fcf2-42e7-aac0-986866d8c48f" width="40%" height="40%">
 
 - 메인화면에서 좌표를 얻은 모습
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/d685b249-551b-478d-9f56-d66ee3d496ca" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/d685b249-551b-478d-9f56-d66ee3d496ca" width="40%" height="40%">
 
 - 지도화면
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/2f304828-b5de-4af8-815c-14b5ecaea7d7" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/2f304828-b5de-4af8-815c-14b5ecaea7d7" width="40%" height="40%">
 
 - 지도에서 원하는 위치 지정
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/beb877e0-5ee9-4f65-90db-fa74c552eb4b" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/beb877e0-5ee9-4f65-90db-fa74c552eb4b" width="40%" height="40%">
 
 - 메모 작성
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/4066ced8-c7a0-4a99-a8fc-be42ebdce2ff" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/4066ced8-c7a0-4a99-a8fc-be42ebdce2ff" width="40%" height="40%">
 
 - 다른 사람이 작성한 메모 확인
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/faadbc58-66ae-4656-a081-c33ac803809a" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/faadbc58-66ae-4656-a081-c33ac803809a" width="40%" height="40%">
 
 - 검색하여 원하는 내용 찾기
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/75ed383b-7df0-4ea4-9826-c8d3192a6cd4" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/75ed383b-7df0-4ea4-9826-c8d3192a6cd4" width="40%" height="40%">
 
 - 자세한 메모 내용 확인
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/01728ef8-ca7f-4c82-8296-74214782b7c9" width="50%" height="50%">
+- 
+  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/01728ef8-ca7f-4c82-8296-74214782b7c9" width="40%" height="40%">
 
 ### 2.4 기대효과
 - 정보를 얻으려고 클릭한 긴 글에 끝에 광고였다는 내용이 적혀있다면, 시간도 소비되고 신뢰없는 정보가 들어오는 반면, 이 앱은 사용자들이 자유롭게 쓴 짧고 간결한 평가로 손 쉽게 정보를 얻을 수 있다.
