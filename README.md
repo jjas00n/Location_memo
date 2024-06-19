@@ -25,30 +25,28 @@
 4. 다른 사람들이 남긴 메모들을 확인한다.
 5. 원하는 내용의 메모를 검색을 통해 확인한다.
 
-### 2.2 프로젝트 구조
-이미지 추가 필요 (image)
-
-### 2.3 결과물
+### 2.2 결과물
 
 - 메인 화면
 - 
   <img src="https://github.com/jjas00n/Location_memo/assets/147312504/acce5dc1-fcf2-42e7-aac0-986866d8c48f" width="40%" height="40%">
 
 - 메인화면에서 좌표를 얻은 모습
-- 
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/d685b249-551b-478d-9f56-d66ee3d496ca" width="40%" height="40%">
+-
+  ![Screenshot_20240619_202707](https://github.com/jjas00n/Location_memo/assets/147312504/712bf28f-7df1-4102-95b8-d6afc0dd6b18)
 
 - 지도화면
-- 
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/2f304828-b5de-4af8-815c-14b5ecaea7d7" width="40%" height="40%">
+-
+  ![Screenshot_20240619_202717](https://github.com/jjas00n/Location_memo/assets/147312504/4b2423e0-9505-42e5-b9ec-f4ed4db8cc47)
+
 
 - 지도에서 원하는 위치 지정
-- 
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/beb877e0-5ee9-4f65-90db-fa74c552eb4b" width="40%" height="40%">
+-
+  ![Screenshot_20240619_202746](https://github.com/jjas00n/Location_memo/assets/147312504/28a2cf6d-0e22-42d5-a7d0-69e1a3bbc81b)
 
 - 메모 작성
-- 
-  <img src="https://github.com/jjas00n/Location_memo/assets/147312504/4066ced8-c7a0-4a99-a8fc-be42ebdce2ff" width="40%" height="40%">
+-
+  ![Screenshot_20240619_202818](https://github.com/jjas00n/Location_memo/assets/147312504/f9b8b8d2-7117-4888-9800-4f77cd8c9385)
 
 - 다른 사람이 작성한 메모 확인
 - 
@@ -62,10 +60,10 @@
 - 
   <img src="https://github.com/jjas00n/Location_memo/assets/147312504/01728ef8-ca7f-4c82-8296-74214782b7c9" width="40%" height="40%">
 
-### 2.4 기대효과
+### 2.3 기대효과
 - 정보를 얻으려고 클릭한 긴 글에 끝에 광고였다는 내용이 적혀있다면, 시간도 소비되고 신뢰없는 정보가 들어오는 반면, 이 앱은 사용자들이 자유롭게 쓴 짧고 간결한 평가로 손 쉽게 정보를 얻을 수 있다.
 - 장소에 대한 나의 의견을 써보고 다른 사람의 메모도 구경하며 의견의 차이를 확인할 수 있다.
 
-### 2.5 시연영상
+### 2.4 시연영상
 - [Youtube 동영상]
 - https://youtu.be/IVGUJR84vEw
