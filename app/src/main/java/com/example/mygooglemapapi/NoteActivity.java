@@ -53,7 +53,7 @@ public class NoteActivity extends AppCompatActivity {
         longitude = getIntent().getDoubleExtra("longitude", 0.0);
 
         textViewCoordinates.setText("위도: " + latitude + ", 경도: " + longitude);
-        String imageUrl = "https://maps.googleapis.com/maps/api/staticmap?center=" + latitude + "," + longitude + "&zoom=20&size=600x300&markers=color:red%7C" + latitude + "," + longitude + "&key=AIzaSyBkOdxD47H2oVSzy4fmDPyC9JFBeCVX3xo";
+        String imageUrl = "https://maps.googleapis.com/maps/api/staticmap?center=" + latitude + "," + longitude + "&zoom=20&size=600x300&markers=color:red%7C" + latitude + "," + longitude + "&key=YOURAPIKEYHERE";
         Picasso.get().load(imageUrl).into(imageViewLocation);
 
         buttonSaveNote.setOnClickListener(v -> {
