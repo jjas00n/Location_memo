@@ -43,7 +43,7 @@
         <activity android:name=".NoteDetailActivity" android:label="NOTEDETAIL 엑티비티"/>
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBkOdxD47H2oVSzy4fmDPyC9JFBeCVX3xo"/>
+            android:value="#YOURAPIKEYHERE"/>
 
 
 
